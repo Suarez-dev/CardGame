@@ -1,4 +1,4 @@
 # CardGame
 
 practicing more about  Css
-https://xein-dev.github.io/CardGame/
+https://Suarez-dev.github.io/CardGame/
